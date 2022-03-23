@@ -1,0 +1,19 @@
+{
+  "name": "fasceso",
+  "version": "1.0.0",
+  "description": "Fasceso-web controle",
+  "main": "index.js",
+  "scripts": {
+    "ts-node": "ts-node",
+    "tsc": "tsc",
+    "clean:tsc": "rm -rf tsconfig.tsbuildinfo"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^15.6.0",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.2"
+  }
+}
